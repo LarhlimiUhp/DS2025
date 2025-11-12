@@ -543,3 +543,13 @@ print("=" * 80)
 ---
 
 *Suite du cours dans la Partie 2 : Apprentissage Automatique et Applications Avancées*
+
+
+
+
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+---
