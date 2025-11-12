@@ -1,7 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Donne-moi un exemple détaillé d’étude statistique de corrélation appliquée au domaine financier, incluant la collecte et la préparation des données réelles, le calcul du coefficient de corrélation (notamment de Pearson), l’interprétation des résultats dans un contexte financier, ainsi qu’une visualisation graphique adaptée (par exemple un nuage de points avec la droite de tendance). Fournis également des exemples de code en Python ou R pour analyser des jeux de données financiers réels, comme des cours d’actions ou des indices financiers.
-
 Voici un exemple détaillé d’étude statistique de corrélation appliquée à la finance, incluant chaque étape et du code utilisable :
 
 ***
