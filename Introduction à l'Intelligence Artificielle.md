@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Introduction à l'Intelligence Artificielle
 
 > _Cours magistral pour étudiants de 4ème année cycle ingénieur/Master 1, alternant théorie et pratique, conçu pour favoriser la compréhension et l’esprit critique._
